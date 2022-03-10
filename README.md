@@ -26,9 +26,9 @@ Options:
 
 ## Environments
 
-- Python 3.9.8 above
-- Pillow 9.0.1 above
-- Click 8.0.4 above
+- Python 3.9.8+
+- Pillow 9.0.1+
+- Click 8.0.4+
 
 ## Requirements for execute
 
